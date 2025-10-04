@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,7 +200,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c7546d43b28fbdba",
+  "active": "ce927f997ebf8d93",
   "lastOpenFiles": [
     "Financials/Accounts.md",
     "Recording 20251004183840.m4a",
