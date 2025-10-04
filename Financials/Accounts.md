@@ -1,3 +1,6 @@
+---
+noteID: ff2a9d83-00a5-4e24-8a5b-8509773e2a23
+---
 
 ## Banking
 
