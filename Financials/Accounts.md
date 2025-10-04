@@ -1,6 +1,3 @@
----
-noteID: 1c6f47be-5f3e-4b01-a786-04a06cb2490a
----
 
 ## Banking
 
