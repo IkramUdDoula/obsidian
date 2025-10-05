@@ -1,12 +1,16 @@
-
 ## Notes
 
 - 
-
 ## To Do Lists
 
-- [ ] Posthog react integration to Sajib
-- [ ] 
+- [x] Posthog react integration to Sajib
+- [ ] check be brave app
+- [ ] Google sign up in app
+- [ ] text area padding
+- [ ] app level white labelling
+- [ ] delete project
+- [ ] perplexica
+- [ ] deepseek, qwen and kimi k2 search performance
 - [ ] 
 
 

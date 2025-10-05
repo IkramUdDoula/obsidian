@@ -1,1 +1,9 @@
-{}
+{
+  "accentColor": "#2f9849",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}
