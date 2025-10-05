@@ -9,6 +9,7 @@
 - [ ] text area padding
 - [ ] app level white labelling
 - [ ] delete project
+- [ ] perplexica
 - [ ] 
 
 
