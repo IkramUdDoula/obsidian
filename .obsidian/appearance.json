@@ -1,5 +1,9 @@
 {
   "accentColor": "#2f9849",
   "cssTheme": "Blue Topaz",
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
