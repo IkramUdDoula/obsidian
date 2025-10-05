@@ -1,3 +1,5 @@
 {
-  "accentColor": "#0c5888"
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "theme": "moonstone"
 }
