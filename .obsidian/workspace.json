@@ -28,8 +28,24 @@
               "icon": "lucide-trello",
               "title": "Kanban"
             }
+          },
+          {
+            "id": "cf1670a0be9aba5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Sunday, October 5th 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunday, October 5th 2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,15 +212,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false,
-      "copilot:Open Copilot Chat": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce927f997ebf8d93",
+  "active": "cf1670a0be9aba5c",
   "lastOpenFiles": [
+    "Tasks/Kanban.md",
+    "Daily Notes/Sunday, October 5th 2025.md",
     "Financials/Accounts.md",
     "Recording 20251004183840.m4a",
-    "Tasks/Kanban.md",
     "conflict-files-obsidian-git.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
