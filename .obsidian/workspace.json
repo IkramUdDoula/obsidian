@@ -25,8 +25,8 @@
                 }
               },
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "kanban"
+              "icon": "lucide-trello",
+              "title": "Kanban"
             }
           },
           {
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "right": {
     "id": "34f43096ed67db17",
