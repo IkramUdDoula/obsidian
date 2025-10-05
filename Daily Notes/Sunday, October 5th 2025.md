@@ -8,7 +8,7 @@
 - [ ] Google sign up in app
 - [ ] text area padding
 - [ ] app level white labelling
-- [ ] 
+- [ ] delete project
 - [ ] 
 
 
