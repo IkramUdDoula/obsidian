@@ -10,6 +10,7 @@
 - [ ] app level white labelling
 - [ ] delete project
 - [ ] perplexica
+- [ ] deepseek, qwen and kimi k2 search performance
 - [ ] 
 
 
