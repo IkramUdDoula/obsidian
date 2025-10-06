@@ -35,13 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Sunday, October 5th 2025.md",
+                "file": "Daily Notes/Monday, October 6th 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sunday, October 5th 2025"
+              "title": "Monday, October 6th 2025"
             }
           }
         ],
@@ -215,11 +215,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ce927f997ebf8d93",
+  "active": "cf1670a0be9aba5c",
   "lastOpenFiles": [
+    "Daily Notes/Sunday, October 5th 2025.md",
     "Daily Notes/Saturday, October 4th 2025.md",
     "Daily Notes/Monday, October 6th 2025.md",
-    "Daily Notes/Sunday, October 5th 2025.md",
     "Tasks/Kanban.md",
     "Financials/Accounts.md",
     "Recording 20251004183840.m4a",
