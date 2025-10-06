@@ -1,8 +1,6 @@
-
 ## Notes
 
 - 
-
 ## To Do Lists
 
 - [ ] 

@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "cf1670a0be9aba5c",
+            "id": "2337cb7fa0a0d933",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "right": {
     "id": "34f43096ed67db17",
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,12 +216,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cf1670a0be9aba5c",
+  "active": "2337cb7fa0a0d933",
   "lastOpenFiles": [
+    "Daily Notes/Friday, October 3rd 2025.md",
+    "Tasks/Kanban.md",
+    "Templates/Daily Notes/{{date}}.md",
+    "Daily Notes/Monday, October 6th 2025.md",
     "Daily Notes/Sunday, October 5th 2025.md",
     "Daily Notes/Saturday, October 4th 2025.md",
-    "Daily Notes/Monday, October 6th 2025.md",
-    "Tasks/Kanban.md",
     "Financials/Accounts.md",
     "Recording 20251004183840.m4a",
     "conflict-files-obsidian-git.md",
@@ -239,13 +242,11 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Daily Notes/Friday, October 3rd 2025.md",
     "Tasks/gh.md",
     "Untitled Kanban.md",
     "Untitled Kanban 7.md",
     "Untitled Kanban 6.md",
     "Untitled Kanban 5.md",
-    "Untitled Kanban 4.md",
     "Templates/Tasks",
     "Tasks",
     "Untitled.base",
