@@ -18,7 +18,7 @@
 	    - Text input for code (if user applies manually)        
 	- **Eligibility Criteria**    
 	    - Dropdown or checklist (user segment: new user, returning, enterprise, etc.)        
-	    - Specific product/service selection (multi-select)        
+	    - Specific product/service selection (multi-select)
 	- **Active Dates*    
 	    - Start date & end date pickers for validity        
 	- **Usage Limits**    
