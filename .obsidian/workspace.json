@@ -33,13 +33,15 @@
             "id": "87ac5d26929ddcff",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Templates/Daily Notes/{{date}}.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "{{date}}"
             }
           }
         ],
@@ -217,8 +219,9 @@
   },
   "active": "87ac5d26929ddcff",
   "lastOpenFiles": [
+    "Daily Notes/Daily Notes.base",
     "Daily Notes/Monday, October 6th 2025.md",
-    "Untitled.base",
+    "Daily Notes/Untitled.md",
     "Tasks/Kanban.md",
     "Selise/Be Brave/Promo Code Feature - UX Brief.md",
     "Selise/Be Brave",
@@ -248,7 +251,6 @@
     "copilot",
     "Tasks/gh.md",
     "Untitled Kanban.md",
-    "Untitled Kanban 7.md",
     "Templates/Tasks",
     "Tasks",
     "Templates/Daily Notes",

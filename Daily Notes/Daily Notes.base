@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Daily Notes"
+    sort:
+      - property: file.ctime
+        direction: DESC
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Daily Notes"
+        - file.ext != "base"
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 400
+    imageFit: ""
+    imageAspectRatio: 1.3
