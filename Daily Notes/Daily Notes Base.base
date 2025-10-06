@@ -1,12 +1,24 @@
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table
     filters:
       and:
         - file.folder == "Daily Notes"
+        - file.ext != "base"
+    order:
+      - file.name
+      - file.backlinks
+      - file.links
+      - file.size
     sort:
+      - property: file.backlinks
+        direction: ASC
       - property: file.ctime
         direction: DESC
+    columnSize:
+      file.name: 186
   - type: cards
     name: View
     filters:

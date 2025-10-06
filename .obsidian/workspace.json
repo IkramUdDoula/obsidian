@@ -30,18 +30,18 @@
             }
           },
           {
-            "id": "87ac5d26929ddcff",
+            "id": "d88b5e692596301b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes/{{date}}.md",
+                "file": "Selise/Be Brave/Promo Code Feature - UX Brief.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "{{date}}"
+              "title": "Promo Code Feature - UX Brief"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Selise/Be Brave/Promo Code Feature - UX Brief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Promo Code Feature - UX Brief"
             }
           },
           {
@@ -136,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Kanban.md",
+                "file": "Selise/Be Brave/Promo Code Feature - UX Brief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kanban"
+              "title": "Outgoing links from Promo Code Feature - UX Brief"
             }
           },
           {
@@ -194,8 +195,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,18 +217,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "87ac5d26929ddcff",
+  "active": "d88b5e692596301b",
   "lastOpenFiles": [
-    "Daily Notes/Daily Notes.base",
     "Daily Notes/Monday, October 6th 2025.md",
+    "Daily Notes/Daily Notes Base.base",
     "Daily Notes/Untitled.md",
     "Tasks/Kanban.md",
+    "Templates/Daily Notes/{{date}}.md",
     "Selise/Be Brave/Promo Code Feature - UX Brief.md",
     "Selise/Be Brave",
     "Selise",
     "Selise/Be Brave/Pasted image 20251006154255.png",
     "Daily Notes/Friday, October 3rd 2025.md",
-    "Templates/Daily Notes/{{date}}.md",
     "Daily Notes/Sunday, October 5th 2025.md",
     "Daily Notes/Saturday, October 4th 2025.md",
     "Financials/Accounts.md",
