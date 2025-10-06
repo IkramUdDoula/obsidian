@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "2337cb7fa0a0d933",
+            "id": "b84c304abeb5987c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "34f43096ed67db17",
@@ -217,13 +216,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2337cb7fa0a0d933",
+  "active": "b84c304abeb5987c",
   "lastOpenFiles": [
-    "Pasted image 20251006154255.png",
-    "Daily Notes/Friday, October 3rd 2025.md",
+    "Selise/Be Brave/Promo Code Feature - UX Brief.md",
     "Tasks/Kanban.md",
-    "Templates/Daily Notes/{{date}}.md",
+    "Selise/Be Brave",
+    "Selise",
     "Daily Notes/Monday, October 6th 2025.md",
+    "Selise/Be Brave/Pasted image 20251006154255.png",
+    "Daily Notes/Friday, October 3rd 2025.md",
+    "Templates/Daily Notes/{{date}}.md",
     "Daily Notes/Sunday, October 5th 2025.md",
     "Daily Notes/Saturday, October 4th 2025.md",
     "Financials/Accounts.md",
@@ -254,8 +256,6 @@
     "Templates/Daily Notes",
     "Templates",
     "Untitled 1.canvas",
-    "Daily Notes",
-    "Financials",
     "Untitled.canvas"
   ]
 }
