@@ -1,10 +1,10 @@
 {
   "accentColor": "#2f9849",
   "cssTheme": "AnuPpuccin",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "baseFontSize": 15
+  "baseFontSize": 23
 }
