@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "34f43096ed67db17",
@@ -219,21 +220,23 @@
   },
   "active": "7db074f8ff4895f5",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "nano-banana-2025-10-07T20-42-38.png",
+    "Selise/Be Brave/Promo Code Feature - UX Brief.md",
     "Writings/The Mirage of Overnight Boom - A product manager's guide to understanding scale up readiness.md",
+    "Media Library",
+    "Untitled 1.md",
     "Daily Notes/Wednesday, October 8th 2025.md",
     "Tasks/Kanban.md",
     "Untitled.md",
     "Writings",
     "Daily Notes/Tuesday, October 7th 2025.md",
-    "Selise/Be Brave/Promo Code Feature - UX Brief.md",
     "Daily Notes/Daily Notes Base.base",
     "Daily Notes/Monday, October 6th 2025.md",
     "Daily Notes/Untitled.md",
     "Templates/Daily Notes/{{date}}.md",
     "Selise/Be Brave",
     "Selise",
-    "Selise/Be Brave/Pasted image 20251006154255.png",
+    "Media Library/Pasted image 20251006154255.png",
     "Daily Notes/Friday, October 3rd 2025.md",
     "Daily Notes/Sunday, October 5th 2025.md",
     "Daily Notes/Saturday, October 4th 2025.md",
@@ -250,12 +253,10 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Templates/Tasks",
     "Tasks",
-    "Templates/Daily Notes",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

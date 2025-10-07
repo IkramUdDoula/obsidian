@@ -1,3 +1,7 @@
+---
+noteID: 3276e9b6-a43e-4e9b-afbb-866a89dd16ab
+---
+![[nano-banana-2025-10-07T20-42-38.png]]
 “So, are we ready for 1,000,000 users?”
 
 If you’re a product manager, you’ve likely heard some version of this question where stakeholders are wondering whether the system can handle a massive user base.
