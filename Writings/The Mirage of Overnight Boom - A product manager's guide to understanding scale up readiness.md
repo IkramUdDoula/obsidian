@@ -1,6 +1,3 @@
----
-noteID: cb85dfc6-1deb-42fb-b1f2-05433d9b44f8
----
 “So, are we ready for 1,000,000 users?”
 
 If you’re a product manager, you’ve likely heard some version of this question where stakeholders are wondering whether the system can handle a massive user base.

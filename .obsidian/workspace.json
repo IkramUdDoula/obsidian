@@ -35,13 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writings/LinkedIn - Answering to the Scale up question.md",
+                "file": "Writings/The Mirage of Overnight Boom - A product manager's guide to understanding scale up readiness.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LinkedIn - Answering to the Scale up question"
+              "title": "The Mirage of Overnight Boom - A product manager's guide to understanding scale up readiness"
             }
           }
         ],
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "34f43096ed67db17",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selise/Be Brave/Promo Code Feature - UX Brief.md",
+                "file": "Writings/LinkedIn - Answering to the Scale up question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Promo Code Feature - UX Brief"
+              "title": "Backlinks for LinkedIn - Answering to the Scale up question"
             }
           },
           {
@@ -196,12 +195,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,9 +220,9 @@
   "active": "7db074f8ff4895f5",
   "lastOpenFiles": [
     "Untitled 1.md",
-    "Writings/LinkedIn - Answering to the Scale up question.md",
-    "Tasks/Kanban.md",
+    "Writings/The Mirage of Overnight Boom - A product manager's guide to understanding scale up readiness.md",
     "Daily Notes/Wednesday, October 8th 2025.md",
+    "Tasks/Kanban.md",
     "Untitled.md",
     "Writings",
     "Daily Notes/Tuesday, October 7th 2025.md",
