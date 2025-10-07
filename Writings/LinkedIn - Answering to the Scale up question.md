@@ -2,11 +2,11 @@
 noteID: cb85dfc6-1deb-42fb-b1f2-05433d9b44f8
 ---
 
-"So, Are we ready for 1,000,000 users?"
+“So, are we ready for 1,000,000 users?”
 
-If you are a product manager, chances are you have heard a version of this question where stakeholders are curious if the system is well equipped to handle a massive user base.  
+If you’re a product manager, you’ve likely heard some version of this question where stakeholders are wondering whether the system can handle a massive user base.
 
-Let's concentrate on some of my personal observations on how to approach this question so that you can find the answer on your own.  
+Here are some of my personal observations on how to approach this question, so you can confidently determine the answer yourself.
 
 1. Handling a million users is not primarily a technical concern, but is a business concern. It’s highly unlikely that a business will suddenly see that level of traffic overnight. Here’s a small tip. If you ever find yourself asked about handling that kind of scale, go to the person leading day to day operations and ask them if they’re prepared. If it is not their headache at the moment, you don’t need to worry about it either. The point is simple. Scale follows business growth, not the other way around. Planning for theoretical extremes before the business is ready is often unnecessary and wasteful.
 
@@ -23,4 +23,7 @@ Let's concentrate on some of my personal observations on how to approach this qu
 	If you have answered yes to all of those questions except for the last one, you better start sending emails to Amazon or Microsoft. Otherwise, relax and focus on how you are going to create more values for the users.
 
 4. Every technical decision must align with business goals. For instance, if the company’s only objective is to acquire 20% more customers in the next quarter, then every line of code, PRD, Jira ticket, and even every single email should contribute toward that target, or else you risk wasting time and resources. Now, some tasks, like managing technical debt, ensuring security, or optimizing performance, may not directly impact that specific goal. But they still support the broader objective by safeguarding the business’s sustainability and long-term health. So, if you are asked to prepare for scale up readiness, make sure you understand which business goal it serves. 
-5. Product managers are shared resources. 50% for the company, 50% for the customers. You need to advocate for the users you are shipping your products to. It is one of the key characteristics that differentiate product managers from backlog managers. Whenever you are asked to do something or build a feature, you need to ask, two questions. What it is doing for the business? What it is doing to the customer? The amount of effort and money it needs to build a system robust enough to handle a million users, will backstab you if you are not thinking about the user experience around your product. Remember Skype? Skype was ready to handle 3 pandemics. Now, if you google skype, it'll show you Zoom ad.  
+5. Product managers are shared resources. 50% for the company, 50% for the customers. You need to advocate for the users you are shipping your products to. It is one of the key characteristics that differentiate product managers from backlog managers. Whenever you are asked to do something or build a feature, you need to ask, two questions. What it is doing for the business? What it is doing to the customer? The amount of effort and money it needs to build a system robust enough to handle a million users, will backstab you if you are not thinking about the user experience around your product. Remember Skype? Skype was ready to handle 3 pandemics. Now, if you google skype, if you listen carefully you'll hear laughing sound in the background. 
+
+These are the things I have picked up by working with a diverse groups of stakeholders, customers and supervisors. Now, I am no position to tell you how to manage your products. Because I don't do that for free. But the key takeaway is to collect enough justification for 
+So, the answer to the question is, "Yes. We are ready. Are you?"
