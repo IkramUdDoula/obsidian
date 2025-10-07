@@ -58,6 +58,16 @@
               "icon": "lucide-file",
               "title": "LinkedIn - Answering to the Scale up question"
             }
+          },
+          {
+            "id": "48acd732c7197125",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 2
@@ -234,8 +244,8 @@
   },
   "active": "7db074f8ff4895f5",
   "lastOpenFiles": [
-    "Daily Notes/Wednesday, October 8th 2025.md",
     "Writings/LinkedIn - Answering to the Scale up question.md",
+    "Daily Notes/Wednesday, October 8th 2025.md",
     "Writings",
     "Daily Notes/Tuesday, October 7th 2025.md",
     "Selise/Be Brave/Promo Code Feature - UX Brief.md",
