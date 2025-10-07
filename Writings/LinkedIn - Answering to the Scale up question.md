@@ -22,4 +22,5 @@ Let's concentrate on some of my personal observations on how to approach this qu
 	- Can giants like OpenAI, Meta or Google launch a feature to thanos-snap your business overnight?
 	If you have answered yes to all of those questions except for the last one, you better start sending emails to Amazon or Microsoft. Otherwise, relax and focus on how you are going to create more values for the users.
 
-4. Every single technical decision has to line up with business goals. Let's say, the company wants to acquire 20% more customers in the next quarter and that's the only goal the management has set for the business. Every single line of code has to contribute towards that goal. 
+4. Every technical decision must align with business goals. For example, if the company aims to acquire 20% more customers in the next quarter and that’s the primary business objective, then every line of code, PRD, Jira ticket, and even email should contribute toward that target. Otherwise, you risk wasting time and resources.
+5. Of course, some tasks may not directly impact that specific goal, such as managing technical debt, handling security, or optimizing performance. However, these efforts still support the broader objective by ensuring the **sustainability and long-term health of the business**.
