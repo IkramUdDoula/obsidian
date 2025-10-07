@@ -13,4 +13,5 @@ Let's concentrate on some of my personal observations on how to approach this qu
 2. Most of the non-technical stakeholders you interact with think of scaling up as **enlargement**, not **extension**. Let me give you an example. Imagine you’re trying to store some rainwater since it’s been raining cats and dogs for a few days. You can either buy a **giant water tank**, or you can buy **10 small ones** and keep adding new buckets as they fill up. Now buying a giant tank may seem practical because you want to save as much water as you can, but it’s not always realistic because the rain might stop the moment you set up the tank, and you’ll end up with a huge, underused investment. On the other hand, if you keep extending your army of small buckets, you’ll have a more flexible and optimized system that grows with the rain instead of guessing how long it’ll last. Of course, managing a lot of small buckets isn’t free of challenges. You’ll need to monitor them, make sure none overflow, and spend more time organizing them. But this trade-off brings resilience and adaptability.
 
 3. There are time however, you will need to be ready for a sudden jump in traffic. But these are very well documented, studied and solved cases. Your business needs to meet some basic criteria in order to anticipate that rush. 
-	1. 
+	1. Is the product targeted to B2C customers ? 
+	2. 
