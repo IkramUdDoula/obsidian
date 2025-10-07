@@ -20,4 +20,6 @@ Let's concentrate on some of my personal observations on how to approach this qu
 	- Is there significant media coverage or press attention expected?
 	- Has a similar product gone viral on social or digital platforms before?
 	- Can giants like OpenAI, Meta or Google launch a feature to thanos-snap your business overnight?
-	If you have answered yes to all of those questions except for the last one, you better start sending emails to Amazon or Microsoft. Otherwise, relax and 
+	If you have answered yes to all of those questions except for the last one, you better start sending emails to Amazon or Microsoft. Otherwise, relax and focus on how you are going to create more values for the users.
+
+4. Every single technical decision has to line up with business goals. Let's say, the company wants to acquire 20% more customers in the next quarter and that's the only goal the management has set for the business. Every single line of code has to contribute towards that goal. 
