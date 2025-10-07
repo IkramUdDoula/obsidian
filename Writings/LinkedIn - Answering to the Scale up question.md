@@ -3,11 +3,9 @@ noteID: cb85dfc6-1deb-42fb-b1f2-05433d9b44f8
 ---
 “So, are we ready for 1,000,000 users?”
 
-If you’re a product manager, you’ve likely heard some version of this question where stakeholders are wondering whether the system can handle a massive user base.
+If you’re a product manager, you’ve likely heard some version of this question where stakeholders are wondering whether the system can handle a massive user base. Here are some of my observations on how to approach this question.
 
-Here are some of my personal observations on how to approach this question, so you can confidently determine the answer yourself.
-
-1. Handling a million users is not primarily a technical concern, but a business one. It’s highly unlikely that you will suddenly see that level of traffic overnight. Here’s a small tip. If you ever find yourself asked about handling that kind of scale, go to the person leading day-to-day operations and ask them if they’re prepared. If it is not their headache at the moment, you don’t need to worry about it either. The point is simple. Scale follows business growth, not the other way around. Planning for theoretical extremes before the business is ready is often unnecessary.
+1. Handling a million users is not primarily a technical concern, but a business one. It’s highly unlikely to witness that level of traffic overnight. If you ever find yourself asked about handling that kind of scale, ask the person leading day to day operations, if they’re prepared. If it's not their headache at the moment, you don’t need to worry about it either. The point is simple. Scale follows business growth, not the other way around. Planning for theoretical extremes before the business is ready is often unnecessary.
     
 2. Most of the non-technical stakeholders you interact with think of scaling up as **enlargement**, not **extension**. Let me give you an example. Imagine you’re trying to store some rainwater since it’s been raining cats and dogs for a few days. You can either buy a **giant water tank**, or you can buy 10 small buckets and keep adding new ones as they fill up. Now buying a giant tank may seem practical because you want to save as much water as you can, but it’s not always realistic because the rain might stop the moment you set up the tank, and you’ll end up with a huge, underused investment. But if you keep extending your army of small buckets, you’ll have a more flexible and optimized system that grows with the rain instead of guessing how long it’ll last. Of course, managing a lot of small buckets isn’t free of challenges. You’ll need to monitor them, make sure none overflow, and spend more time organizing them. But this trade-off brings resilience and adaptability.
     
