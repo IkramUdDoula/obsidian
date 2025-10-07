@@ -7,7 +7,7 @@
 - [ ] mobile release 16th
 - [ ] llama 4 maverick
 - [ ] memories - mahmudul
-- [ ] 
+- [ ] m ridoy cards
 
 
 
