@@ -1,9 +1,11 @@
 ## Notes
 
-- Rafsan prioritization needed tomorrow
+- Rafsan
 	- https://chzggit001.be-brave.ag/devsel/l3-python-bebrave-taskforce/-/issues/70
 	- Chatroom/share tasks
 	- speech to text
+- A jubayer
+	- 
 ## To Do Lists
 
 - [ ] ios app in review in app store
