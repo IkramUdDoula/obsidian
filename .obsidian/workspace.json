@@ -43,9 +43,21 @@
               "icon": "lucide-file",
               "title": "Wednesday, October 8th 2025"
             }
+          },
+          {
+            "id": "99e0bea4acedc5b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-08 16.44.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-08 16.44.59.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +229,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bac43d7cc55fac2e",
+  "active": "99e0bea4acedc5b8",
   "lastOpenFiles": [
-    "Daily Notes/Tuesday, October 7th 2025.md",
     "Daily Notes/Wednesday, October 8th 2025.md",
+    "Excalidraw/Drawing 2025-10-08 16.44.59.excalidraw.md",
+    "Daily Notes/Tuesday, October 7th 2025.md",
     "Tasks/Kanban.md",
     "Writings/The Mirage of Overnight Boom - A product manager's guide to understanding scale up readiness.md",
     "nano-banana-2025-10-07T20-42-38.png",
