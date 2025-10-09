@@ -30,15 +30,18 @@
             }
           },
           {
-            "id": "bac43d7cc55fac2e",
+            "id": "b1428ed9ee7080b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media Library/Pasted Image 20251008164543_848.png"
+                "file": "Daily Notes/Friday, October 10th 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20251008164543_848"
+              "icon": "lucide-file",
+              "title": "Friday, October 10th 2025"
             }
           }
         ],
@@ -214,15 +217,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4b37b497da5f77c5",
+  "active": "b1428ed9ee7080b2",
   "lastOpenFiles": [
+    "Tasks/Kanban.md",
+    "Daily Notes/Friday, October 10th 2025.md",
     "Media Library/nano-banana-2025-10-07T20-42-38.png",
     "Media Library/Pasted Image 20251008164543_807.png",
     "Media Library/Pasted Image 20251008164543_848.png",
     "Daily Notes/Wednesday, October 8th 2025.md",
     "Excalidraw/Drawing 2025-10-08 16.44.59.excalidraw.md",
     "Daily Notes/Tuesday, October 7th 2025.md",
-    "Tasks/Kanban.md",
     "Writings/The Mirage of Overnight Boom - A product manager's guide to understanding scale up readiness.md",
     "Selise/Be Brave/Promo Code Feature - UX Brief.md",
     "Media Library",
