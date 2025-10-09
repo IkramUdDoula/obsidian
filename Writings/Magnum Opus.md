@@ -13,4 +13,8 @@ Dashboard Checklists -
 5. Netlify deploy log
 6. Vercel deploy log - promote to production
 7. Linkedin post tracker
-8. 
+8. Account Balances 
+	1. Editable
+9. Payment checklist
+10. AI Chat
+11. 
