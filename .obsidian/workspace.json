@@ -25,20 +25,23 @@
                 }
               },
               "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-ghost",
+              "title": "kanban"
             }
           },
           {
             "id": "bac43d7cc55fac2e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media Library/Pasted Image 20251008164543_848.png"
+                "file": "Daily Notes/Thursday, October 9th 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20251008164543_848"
+              "icon": "lucide-file",
+              "title": "Thursday, October 9th 2025"
             }
           }
         ],
@@ -188,8 +191,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -201,7 +204,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -209,13 +211,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4b37b497da5f77c5",
+  "active": "bac43d7cc55fac2e",
   "lastOpenFiles": [
+    "Daily Notes/Thursday, October 9th 2025.md",
     "Media Library/nano-banana-2025-10-07T20-42-38.png",
     "Media Library/Pasted Image 20251008164543_807.png",
     "Media Library/Pasted Image 20251008164543_848.png",
