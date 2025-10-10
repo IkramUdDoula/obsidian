@@ -50,13 +50,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Friday, October 10th 2025.md",
+                "file": "Writings/Magnum Opus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Friday, October 10th 2025"
+              "title": "Magnum Opus"
             }
           }
         ],
@@ -234,9 +234,9 @@
   },
   "active": "c089af71331aa9f1",
   "lastOpenFiles": [
+    "Daily Notes/Friday, October 10th 2025.md",
     "Writings/Magnum Opus.md",
     "conflict-files-obsidian-git.md",
-    "Daily Notes/Friday, October 10th 2025.md",
     "Daily Notes/Thursday, October 9th 2025.md",
     "Tasks/Kanban.md",
     "Media Library/nano-banana-2025-10-07T20-42-38.png",
