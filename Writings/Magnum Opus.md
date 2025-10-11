@@ -1,7 +1,7 @@
 
 Dashboard Checklists - 
 
-- [ ] New Emails - Pressing x to dismiss
+- [x] New Emails - Pressing x to dismiss
 - [ ] Sports tracking
 	- [ ] Arsenal
 	- [ ] Bangladesh Cricket
@@ -9,9 +9,9 @@ Dashboard Checklists -
 - [ ] Haalkhata
 	- [ ] Upload
 	- [ ] Dashboard
-- [ ] Github commit log
-- [ ] Netlify deploy log
+- [x] Github commit log
+- [x] Netlify deploy log
 - [ ] Account Balances 
 	- [ ] Editable
 - [ ] Payment checklist
-- [ ] AI Chat
+- [x] AI Chat
