@@ -62,18 +62,18 @@ Dashboard Checklists -
 ~~proceed to implementation~~
 
 ---
-- Base Modal standardization
-	- Modal name
-	- Action button
-		- Close
-	- Modal Content
-		- Tab
-			- Content area
-			- Searchbar
-			- Content specifics
-				- Title
-				- Details
-				- parameter type (dropdown, radio button, toggle, input box, action button etc)
+- ~~Base Modal standardization~~
+	- ~~Modal name~~
+	- ~~Action button~~
+		- ~~Close~~
+	- ~~Modal Content~~
+		- ~~Tab~~
+			- ~~Content area~~
+			- ~~Searchbar~~
+			- ~~Content specifics~~
+				- ~~Title~~
+				- ~~Details~~
+				- ~~parameter type (dropdown, radio button, toggle, input box, action button etc)~~
 
 ---
 ~~improve the basewidgetv2~~  
