@@ -2,8 +2,8 @@
   "accentColor": "#2f9849",
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
-  "interfaceFontFamily": "",
-  "textFontFamily": "Gadugi",
+  "interfaceFontFamily": "Gadugi",
+  "textFontFamily": "",
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "baseFontSize": 16
