@@ -17,6 +17,11 @@ Dashboard Checklists -
 - [x] AI Chat
 
 
+
+forget your recent memory. Analyze the base wizard component and app specific wizards using this component
+
+I am assigning you to a complext task. Your job is to redesign the BaseWidget component based on the following requirement. Then configure all the widgets coherently matching the base widget guidelines and structure. 
+
 - Base widget standardization
 	- Header Zone
 		- Logo
@@ -47,6 +52,15 @@ Dashboard Checklists -
 				- Cards / list 
 					- card specific parameters
 		- Expand / collapse button
+
+before applying to the app specific widgets - create a demo widget that will cover all the specifics of the component structure for me to evaluate. 
+
+plan carefully and properly, do not edit the current base widget, copy it, then edit the copied one
+
+keep what's working and exapnd on where you can improve
+
+proceed to implementation
+
 ---
 - Base Modal standardization
 	- Modal name
