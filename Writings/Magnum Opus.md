@@ -47,6 +47,7 @@ Dashboard Checklists -
 				- Cards / list 
 					- card specific parameters
 		- Expand / collapse button
+---
 - Base Modal standardization
 	- Modal name
 	- Action button
