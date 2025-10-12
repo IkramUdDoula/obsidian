@@ -133,9 +133,6 @@ Advanced intelligence that proactively identifies trends or compliance issues.
 **Next Steps:**
 
 1. Prioritize features into MVP (e.g., Spaces + Role Access + AI Summary)
-    
 2. Define API contracts & data schemas
-    
 3. Align with design for Figma prototype
-    
 4. Setup integration roadmap (Canva, Figma, etc.)
