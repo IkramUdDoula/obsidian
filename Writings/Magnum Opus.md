@@ -76,8 +76,8 @@ Dashboard Checklists -
 				- parameter type (dropdown, radio button, toggle, input box, action button etc)
 
 ---
-improve the basewidgetv2  
+~~improve the basewidgetv2~~  
   
-make the header section - floating over the main content area. the header section only be visible if a user's cursor reacher the top border  
+~~make the header section - floating over the main content area. the header section only be visible if a user's cursor reacher the top border~~  
   
-use the demo widget for visualization of the effect
+~~use the demo widget for visualization of the effect~~
