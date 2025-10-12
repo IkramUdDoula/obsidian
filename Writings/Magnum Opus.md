@@ -32,11 +32,22 @@ Dashboard Checklists -
 					- [ ] Searchbar
 					- [ ] Individual Setting Name
 					- [ ] Setting Detail
-					- [ ] Setting parameter type (dropdown, radio button, toggle etc)
-					- [ ] 
+					- [ ] Setting parameter type (dropdown, radio button, toggle, input box, action button etc)
 		- [ ] Refresh
 		- [ ] Widget Content Zone
-			- [ ] Searchbar
+			- [ ] Search bar
 			- [ ] Cards / list 
 				- [ ] card specific parameters
-				- [ ] 
+		- [ ] Expand / collapse button
+- [ ] Base Modal standardization
+	- [ ] Modal name
+	- [ ] Action button
+		- [ ] Close
+	- [ ] Modal Content
+		- [ ] Tab
+			- [ ] Content area
+			- [ ] Searchbar
+			- [ ] Content specifics
+				- [ ] Title
+				- [ ] Details
+				- [ ] parameter type (dropdown, radio button, toggle, input box, action button etc)
