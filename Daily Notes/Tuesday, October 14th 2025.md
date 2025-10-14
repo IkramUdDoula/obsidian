@@ -8,6 +8,7 @@
 - Speech to text mode
 - Promo code 
 - Image generation guardrail
+- 6 months plans
 - 
 ## To Do Lists
 
