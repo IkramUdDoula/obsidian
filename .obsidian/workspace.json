@@ -65,13 +65,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writings/Magnum Opus.md",
+                "file": "Daily Notes/Tuesday, October 14th 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Magnum Opus"
+              "title": "Tuesday, October 14th 2025"
             }
           }
         ],
@@ -249,10 +249,11 @@
   },
   "active": "002a5dc2313eb758",
   "lastOpenFiles": [
+    "Writings/Magnum Opus.md",
+    "Daily Notes/Tuesday, October 14th 2025.md",
     "Selise/Be Brave/EAGEL GPT Heavy User - Features from feedback.md",
     "Selise/Be Brave/Promo Code Feature - UX Brief.md",
     "Daily Notes/Sunday, October 12th 2025.md",
-    "Writings/Magnum Opus.md",
     "Daily Notes/Saturday, October 11th 2025.md",
     "Daily Notes/Friday, October 10th 2025.md",
     "conflict-files-obsidian-git.md",
@@ -284,7 +285,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Templates/Tasks",
