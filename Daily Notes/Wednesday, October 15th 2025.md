@@ -5,6 +5,7 @@
 - document management trash - there's a global file
 - code with country name and flag in contact sales form
 - AI conversation
+- Test flight details - ensure housekeeping
 - 
 ## To Do Lists
 
