@@ -48,13 +48,15 @@
             "id": "c089af71331aa9f1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Daily Notes Base.base",
-                "viewName": "Table"
+                "file": "Daily Notes/Wednesday, October 15th 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Daily Notes Base"
+              "icon": "lucide-file",
+              "title": "Wednesday, October 15th 2025"
             }
           }
         ],
@@ -115,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "34f43096ed67db17",
@@ -213,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,12 +236,12 @@
   },
   "active": "c089af71331aa9f1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/Daily Notes Base.base",
     "Daily Notes/Tuesday, October 14th 2025.md",
+    "Daily Notes/Sunday, October 12th 2025.md",
+    "Daily Notes/Daily Notes Base.base",
+    "conflict-files-obsidian-git.md",
     "Daily Notes/Wednesday, October 15th 2025.md",
     "Writings/Magnum Opus.md",
-    "Daily Notes/Sunday, October 12th 2025.md",
     "Selise/Be Brave/EAGEL GPT Heavy User - Features from feedback.md",
     "Daily Notes/Saturday, October 11th 2025.md",
     "Daily Notes/Friday, October 10th 2025.md",
