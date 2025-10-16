@@ -106,66 +106,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "694382421623eb7d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Writings/LinkedIn - Answering to the Scale up question.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for LinkedIn - Answering to the Scale up question"
-            }
-          },
-          {
-            "id": "facdace2ce1d4fb8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Selise/Be Brave/Promo Code Feature - UX Brief.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Promo Code Feature - UX Brief"
-            }
-          },
-          {
-            "id": "48ff9415bc9731f9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "48095d66d466bbaa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Kanban.md",
+                "file": "Daily Notes/Thursday, October 16th 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kanban"
+              "title": "Outline of Thursday, October 16th 2025"
             }
           },
           {
@@ -184,16 +136,16 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +162,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "945e0fd0aba7082d",
+  "active": "ce927f997ebf8d93",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Daily Notes/Thursday, October 16th 2025.md",
